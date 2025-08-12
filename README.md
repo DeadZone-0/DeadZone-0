@@ -1,5 +1,6 @@
 
-# Hello 
+# Hi i am Rudra 
+## a passionate teen developer
 
 
 # 💻 Tech Stack:
