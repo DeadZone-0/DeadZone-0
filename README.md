@@ -1,6 +1,6 @@
 
-# Hi i am Rudra 
-## a passionate teen developer
+# Hi i am DeadZone
+## 
 
 
 # 💻 Tech Stack:
