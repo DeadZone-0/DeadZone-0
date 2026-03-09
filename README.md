@@ -27,7 +27,7 @@
 </div>
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=DeadZone-0&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=DeadZone-0&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeadZone-0&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
